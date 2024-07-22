@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "test"
+version = "0.1.0"
+description = ""
+authors = ["test <test@test.test>"]
+
+[tool.poetry.dependencies]
+python = "~3.12"
+django = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
