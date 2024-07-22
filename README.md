@@ -1,10 +1,10 @@
 # Инструкция
 
-> Для работы нужен python версии 3.12
+> Для работы нужен python версии 3.11
 
 1. Проверяем версию python и устанавливаем poetry
 ```bash
-python --version  # Python 3.12.*
+python --version  # Python 3.11.*
 python -m pip install poetry
 poetry --version  # Poetry (version *.*.*)
 poetry install
